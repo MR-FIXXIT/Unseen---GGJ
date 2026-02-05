@@ -38,6 +38,14 @@ An adventure puzzle game built in Unity, developed during **Global Game Jam 2026
 ## Development Focus
 This project focuses on rapid prototyping, clear gameplay mechanics, and immersive atmosphere. The Hidden Sight system forms the core gameplay loop and encourages curiosity, experimentation, and thoughtful exploration.
 
+## Screenshots
+
+<img width="2752" height="1536" alt="Menu (1)" src="https://github.com/user-attachments/assets/9ed2d641-2052-47f8-866c-5a39038fd7b9" />
+<img width="2752" height="1536" alt="2e" src="https://github.com/user-attachments/assets/84ea1952-6ca5-4a00-a03c-d4778cf2f579" />
+<img width="2752" height="1536" alt="9e" src="https://github.com/user-attachments/assets/4d2eb198-25d3-4d2f-b331-070691976bf2" />
+
+
+
 ---
 
 Developed as a game jam project and shared for learning, experimentation, and portfolio purposes.
